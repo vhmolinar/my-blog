@@ -1,4 +1,6 @@
+# My blog
 
+Learning rails as I create a new blog
 
 ### Database creation
 Execute at project's root folder in order to ensure volume path
